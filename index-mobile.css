@@ -35,6 +35,10 @@
 
 .gmail:focus { background-color: #dd4b39;}
 
-.twitter:focus { background-color: #00aced; }
+.googleplus:focus { background-color: #00aced; }
+
+.linkedin:focus { background-color: #3b5998; }
 
 .github:focus { background-color: #4183c4; }
+
+.youtube:focus { background-color: #dd4b39; }
